@@ -1,46 +1,94 @@
-Privacy Policy  
-----------------
+Here is the revised **Privacy Policy** tailored for **Kokeb Mobile Banking**:
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at *Counter App*, how *Counter App* uses it, and what choices you have.
-*Counter App* built the *Counter App* app as a free app. This SERVICE is provided by *Counter App* at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+---
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+# Privacy Policy
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### Introduction
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Our Privacy Policy helps you understand what information we collect at **Kokeb Mobile Banking**, how we use it, and what choices you have.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+**Kokeb Mobile Banking** is developed and provided by **Kokeb** as a free app. This SERVICE is offered at no cost and is intended for use as is.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+By using our Service, you agree to the collection and use of information in accordance with this policy. The personal information we collect is used to provide and improve the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, unless otherwise defined.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+---
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### Information Collection and Use
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+To deliver a better user experience, we may require you to provide certain personally identifiable information, including but not limited to:
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+* Full name
+* Phone number
+* Email address
+* Gender
+* Location
+* Profile picture
+* Bank account details (e.g., account number)
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: *asmamawtemesgen16@gmail.com*  
+This information will be retained and used as outlined in this Privacy Policy. We may also use third-party services that collect information to identify you for the purpose of providing essential banking services and ensuring security.
+
+---
+
+### Cookies
+
+Cookies are small data files used to identify your device anonymously. They are sent to your browser from websites you visit and may be stored in your device’s memory.
+
+Kokeb Mobile Banking does **not** use cookies directly. However, third-party libraries or services integrated into the app may use cookies to improve service quality. You can choose to accept or refuse these cookies. Refusing cookies may affect some app functionalities.
+
+---
+
+### Location Information
+
+Some features of the app may require access to your device’s location. Location data is used only for the purpose of enabling specific services such as branch or ATM locator functionalities and is not shared beyond that scope.
+
+---
+
+### Device Information
+
+We may collect device-specific information (such as model, OS version, and unique identifiers) for analytics, fraud prevention, and security purposes. This data does not include information that personally identifies the user.
+
+---
+
+### Service Providers
+
+We may engage third-party companies and individuals for the following reasons:
+
+* To facilitate our Service
+* To perform Service-related operations on our behalf
+* To assist in analyzing app usage
+* To provide customer support or technical services
+
+These third parties may access your Personal Information only to perform the tasks assigned to them and are obligated not to disclose or use it for any other purpose.
+
+---
+
+### Security
+
+We value your trust in sharing your Personal Information. Therefore, we implement commercially reasonable security measures to protect it. However, no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.
+
+---
+
+### Children’s Privacy
+
+Our Service is not intended for children under the age of 13. We do not knowingly collect personal information from anyone under 13. If we become aware that a child under 13 has provided us with personal data, we will take steps to delete it immediately. If you are a parent or guardian and discover your child has shared personal information with us, please contact us.
+
+---
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We advise you to review this page periodically for any updates. Changes are effective immediately after they are posted on this page.
+
+---
+
+### Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, please contact us:
+
+**Email:** [support@kokebbank.com](mailto:support@kokebbank.com) (replace with your actual email if needed)
+
+---
+
+Let me know if you’d like it as a downloadable file (PDF, DOCX, etc.) or integrated into a Flutter or web app.
